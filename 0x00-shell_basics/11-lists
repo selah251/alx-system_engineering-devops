@@ -1,2 +1,2 @@
 #!/bin/basha
-ls -fl
+ls -a
